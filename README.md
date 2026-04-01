@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Nguyen-Van-Chan/motorcycle-detection-yolov8.git 
+git clone https://github.com/KhaiTrang1995/motorcycle-detection-yolov8.git 
 cd motorcycle-detection-yolov8
 ```
 
@@ -103,4 +103,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any questions or issues, please contact:
 
 Email: [support@techspherex.com]  
-GitHub: [https://github.com/Nguyen-Van-Chan](https://github.com/Nguyen-Van-Chan)
+GitHub: [https://github.com/KhaiTrang1995](https://github.com/KhaiTrang1995)
